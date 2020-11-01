@@ -52,4 +52,4 @@ Using "localhost:3001/api/" you can now run the sperate api endpoints known as c
 
 ## Links
 Visit deployed project at:https://github.com/Aken00/E-commerce-back-end
-Visit demo video at:
+Visit demo video at:https://drive.google.com/file/d/16-xIKxeqEGQe60sH9yskyioVHaZXfJAP/view?usp=sharing
